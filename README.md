@@ -196,9 +196,3 @@ Os testes incluem roteamento condicional, erros de comunicação, uso seletivo d
 Este projeto foi desenvolvido como parte de uma trilha prática de evolução de desenvolvimento Python/RPA para Engenharia de IA e Automação Inteligente.
 
 Seu objetivo é demonstrar a integração entre sistemas tradicionais, workflows com estado e modelos de linguagem.
-
-## Autor
-
-**Luis Alves**
-
-[GitHub](https://github.com/luisalvs)
