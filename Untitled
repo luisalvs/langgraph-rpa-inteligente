@@ -1,0 +1,4 @@
+git rm --cached .env
+git rm --cached checkpoints.sqlite
+git rm -r --cached __pycache__
+git rm -r --cached tests/__pycache__
